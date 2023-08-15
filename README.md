@@ -13,7 +13,7 @@ $ sudo dpkg -i ./release/gpt-beta.deb
 # Generic installation
 ```bash
 $ ./ci/build.sh
-$ sudo mv ./usr/bin /usr/bin/gpt-beta
+$ sudo mv ./usr/bin/gpt-beta /usr/bin/gpt-beta
 $ sudo chmod +x /usr/bin/gpt-beta
 ```
 
