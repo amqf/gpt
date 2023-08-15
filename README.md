@@ -2,6 +2,8 @@
 
 This is a simple client for GPT Chat used in terminal for general purpouse.
 
+This use `gpt-3.5-turbo` model.
+
 # Installation on Ubuntu
 
 ```bash
