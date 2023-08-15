@@ -22,7 +22,8 @@ $ sudo chmod +x /usr/bin/gpt-beta
 
 # Usage
 
-First set your API_KEY.
+First set your API_KEY (https://platform.openai.com/account/api-keys).
+
 ```bash
 $ export OPENAI_API_KEY=<your_openai_api_key>
 ```
