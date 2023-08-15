@@ -14,9 +14,8 @@ $ sudo dpkg -i ./release/gpt-beta.deb
 
 # Generic installation
 ```bash
-$ ./ci/build.sh
-$ sudo mv ./usr/bin/gpt-beta /usr/bin/gpt-beta
-$ sudo chmod +x /usr/bin/gpt-beta
+$ sudo wget https://github.com/amqf/gpt/releases/download/v0.0.1-beta/gpt -o /usr/bin/gpt-beta
+$ sudo chmod +x ./usr/bin/gpt-beta
 ```
 
 
