@@ -1,0 +1,5 @@
+Package: gpt-beta
+Version: 0.0.1
+Maintainer: Antônio M. Quadros Filho <antoniomquadrosfilho@gmail.com>
+Architecture: amd64
+Description: Simple client for ChatGPT gpt-3.5-turbo
